@@ -32,7 +32,10 @@ namespace SampleProject
                 }
 
                 if (count == 0 && num != 1)
-                    Console.Write("{0} ", num);
+                {
+                    Console.WriteLine("Nivedita ");
+                    Console.Write(" {0} ", num);
+                }
                 //Console.ReadKey();
             }
             Console.WriteLine("\n");
