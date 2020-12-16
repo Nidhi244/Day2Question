@@ -1,0 +1,7 @@
+D:\devOps\Qquu\SampleSolution\SampleProject\bin\Debug\SampleProject.exe.config
+D:\devOps\Qquu\SampleSolution\SampleProject\bin\Debug\SampleProject.exe
+D:\devOps\Qquu\SampleSolution\SampleProject\bin\Debug\SampleProject.pdb
+D:\devOps\Qquu\SampleSolution\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+D:\devOps\Qquu\SampleSolution\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\devOps\Qquu\SampleSolution\SampleProject\obj\Debug\SampleProject.exe
+D:\devOps\Qquu\SampleSolution\SampleProject\obj\Debug\SampleProject.pdb
